@@ -341,6 +341,7 @@ a {
       .projetos .grid  {
         display: grid;
         gap: 1.4em;
+        text-align: center;
       }
       
       @media (min-width: 800px) {
