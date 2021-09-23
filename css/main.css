@@ -110,8 +110,8 @@ a {
 .img-sobre {
     width: 20em;
     border: 1px solid #FFFFFF; /* shorthand */
-    border-radius: 60%;
-    margin-left: 1em;
+    border-radius: 20%;
+    margin-left: 3em;
     box-shadow: 0px 0px 5px #001228;
   }
 
@@ -126,7 +126,7 @@ a {
 .main-skills,
 .contato
  {
-  padding: 2em;
+  padding: 6em;
   background-size: 100vh;
   min-height: 100vh;
   }
